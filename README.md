@@ -19,4 +19,5 @@ Bootstrap -> formatting
 
 
 
-
+to get into sandbox
+rails c --sandbox
